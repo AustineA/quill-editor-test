@@ -4,7 +4,6 @@ import TextEditor from "./TextEditor";
 function App() {
   return (
     <>
-      He
       <TextEditor />
     </>
   );
